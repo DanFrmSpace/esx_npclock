@@ -5,7 +5,7 @@
 This is the **latest version** of NPCLock. I apologize for the low frequency of updates.
 This is my first Resource Release so it's simple af. Hope you enjoy
 
-If you have any suggestion for me to add let me know.
+If you have any suggestions for me to add let me know.
 
 ## Thank you very much
 
