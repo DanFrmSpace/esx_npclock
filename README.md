@@ -1,8 +1,6 @@
 # NPCLock - Version 1.0
 
-[Official FiveM link] https://forum.fivem.net/t/release-esx-npc-lock/149583
-
-This is the **latest version** of NPCLock. I apologize for the low frequency of updates.
+This is the **latest version** of NPCLock.
 This is my first Resource Release so it's simple af. Hope you enjoy
 
 If you have any suggestions for me to add let me know.
